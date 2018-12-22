@@ -21,9 +21,19 @@ canvas {
     text-align:center;
     color: white;
 }
+.footer {
+    height: 50vh;
+    position: relative;
+    background: white url("../images/8604.jpg") center fixed;
+    background-size: cover;
+    overflow: hidden;
+    margin: 0;
+    text-align:center;
+    color: white;
+}
 #experiences {
     width: 100%;
-    background: white url("../images/experience.jpg") center fixed;
+    background: white url("../images/experience.jpg") center;
     background-size: cover;
     position: relative;
     text-align:center;
@@ -32,7 +42,7 @@ canvas {
 }
 #hobbies {
     width: 100%;
-    background: white url("../images/hobbies.jpg") center fixed;
+    background: white url("../images/hobbies.jpg") center;
     background-size: cover;
     position: relative;
     text-align:center;
@@ -90,9 +100,3 @@ canvas {
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-.footer {
-    background: black;
-    height: 40vh;
-}
-
