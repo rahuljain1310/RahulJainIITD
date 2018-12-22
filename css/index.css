@@ -1,0 +1,74 @@
+body{
+    font: 15px/1.5 Arial, HelveticaNeue,SansSerif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: 0px;
+}
+canvas {
+    display: block;
+    vertical-align: bottom;
+}
+#intro {
+    width: 100%;
+    position: relative;
+    background: white url("../images/8604.jpg") center fixed;
+    background-size: cover;
+    text-align:center;
+    overflow: hidden;
+    margin: 0;
+    color: white;
+}
+#experiences {
+    width: 100%;
+    background: white url("../images/experience.jpg") center fixed;
+    background-size: cover;
+    position: relative;
+    text-align:center;
+    overflow: hidden;
+    margin: 0;
+}
+#hobbies {
+    width: 100%;
+    background: white url("../images/hobbies.jpg") center fixed;
+    background-size: cover;
+    position: relative;
+    text-align:center;
+    color: white;
+    overflow: hidden;
+    margin: 0;
+}
+
+#particles-js {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+}
+.description_body {
+    position: relative;
+    margin-top: 100px;
+    padding: 50px;
+}
+.description-title {
+    margin-top: 100px;
+    margin-bottom: 20%;
+    position: relative;
+    font-family: "Raleway";
+}
+
+#profile_photo {
+    width: 80%;
+}
+
+.spacebottom {
+    margin-bottom: 20px;
+}
+.aligncenter {
+    text-align: center;
+}
+.text-justify {
+    text-align: justify;
+}
