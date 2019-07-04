@@ -1,0 +1,10 @@
+I am Rahul Jain, Second Year Undergraduate student, currently studying in Electrical Engineering Department Indian Institute of Technology Delhi (IIT Delhi), one of the eminent institutes of technology in India. I have always been good in mathematical sciences and have keen interest in programming.
+My Scholastic Achievements include:-
+� Secured AIR 304 in JEE Advanced among 1.6 million candidates.
+� Secured a CGPA of 9.702 in 3 semesters 
+� Secured Department Rank 2 in Electrical Engineering Department out of 90 students.
+� Awarded KVPY Fellowship by Department of Science and Technology, Government of India.
+� IITD Semester Merit Award for being in top-7% in each semester.
+� State Top 1% in NSE Physics; Secured State Rank 3rd in National Science Olympiad by SOF.
+
+<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Vindhyachal%20Hostel&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
