@@ -7,7 +7,7 @@ handleSubmit = () => {
     subject: form['subject'].value,
   }
   console.log(data)
-  fetch("http://localhost:3000/contact", {
+  fetch("https://rahuliitd.herokuapp.com/contact", {
     method: "POST",
     body: JSON.stringify(data), // data can be `string` or {object}!
     headers:{
@@ -22,4 +22,8 @@ handleSubmit = () => {
           alert("Message failed to send.")
       }
   })
+}
+
+resetForm = () => { 
+  document.getElementById('contactformInputs').reset();
 }
