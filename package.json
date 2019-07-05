@@ -1,0 +1,23 @@
+{
+  "name": "rahuljainiitd",
+  "version": "1.0.0",
+  "description": "server for personal webpage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuljain1310/RahulJainIITD.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Rahul Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuljain1310/RahulJainIITD/issues"
+  },
+  "homepage": "https://github.com/rahuljain1310/RahulJainIITD#readme"
+}
